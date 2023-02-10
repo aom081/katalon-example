@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Please enter two digits as displayed _5c5f37</name>
+   <tag></tag>
+   <elementGuidId>f5045e4c-6de0-47b0-be67-4ea55a74f9fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.vfb-item.vfb-item-secret > label.vfb-desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='item-vfb-2']/ul/li/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1cde2e18-dd5b-4461-a276-f13d026fc99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>vfb-3</value>
+      <webElementGuid>a6c7a07a-890f-4af8-b1e7-be780e85bf6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-desc</value>
+      <webElementGuid>925f26b0-a4bf-4038-9690-26af70c7bf9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter two digits as displayed in Example *</value>
+      <webElementGuid>07ab387f-6d98-42c1-932f-6d18437970d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-2&quot;)/ul[@class=&quot;vfb-section vfb-section-2&quot;]/li[@class=&quot;vfb-item vfb-item-secret&quot;]/label[@class=&quot;vfb-desc&quot;]</value>
+      <webElementGuid>76302c41-101c-4ccb-8a9a-ed40f64e4ce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='item-vfb-2']/ul/li/label</value>
+      <webElementGuid>9f340c91-568d-4a23-a891-7c8258c21df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification'])[1]/following::label[1]</value>
+      <webElementGuid>0bdd05ec-6dfd-490e-9bb3-7b9e249d3869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your query'])[1]/following::label[1]</value>
+      <webElementGuid>78dafd4a-6afc-4d45-adee-aaac7b693295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Example: 99'])[1]/preceding::label[1]</value>
+      <webElementGuid>b939f298-e711-42af-a335-090ccda3d161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter two digits as displayed in Example']/parent::*</value>
+      <webElementGuid>e425e7e0-d58c-4ebc-8d5a-dedf5216c874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/ul/li/label</value>
+      <webElementGuid>854c0768-3007-4cf9-9050-14fadb593b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Please enter two digits as displayed in Example *' or . = 'Please enter two digits as displayed in Example *')]</value>
+      <webElementGuid>c1012e51-1076-4a81-a97c-85738c1bf4ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
